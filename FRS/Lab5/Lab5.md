@@ -36,6 +36,7 @@ Vì không thể lấy được NTLM password hashes của các tài khoản th�
 ![Ảnh 11](image/image-9.png)
 ## What are included in UserAssist?
 > https://www.magnetforensics.com/blog/artifact-profile-userassist/
+
 UserAssist là một tính năng trong Windows cho phép theo dõi việc sử dụng các tệp thực thi và ứng dụng do người dùng khởi chạy.
 UserAssist được lưu trong NTUSER.DAT
 Đường dẫn: **HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist**
